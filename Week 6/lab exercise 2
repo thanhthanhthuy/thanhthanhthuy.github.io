@@ -16,4 +16,4 @@
     else 
     document.write("<font color='blue'><i>" + txta + "là số lẻ</i></font>");
 </script>
-</html>  
+</html>   
