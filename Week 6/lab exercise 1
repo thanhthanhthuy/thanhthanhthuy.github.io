@@ -16,4 +16,3 @@ if(txta == null || txta == "" || isNaN(txta)) {
 }
 </script>
 </head>
-
