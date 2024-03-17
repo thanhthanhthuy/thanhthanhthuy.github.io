@@ -15,4 +15,4 @@ if(txta == null || txta == "" || isNaN(txta)) {
          txta + " + " + txtb + " = " + result);
 }
 </script>
-</head>
+</head> 
