@@ -1,0 +1,71 @@
+
+html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bảng Phân Công Công Việc</title>
+    <style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        th, td {
+            padding: 8px;
+            text-align: left;
+            border-bottom: 1px solid #ddd;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+    </style>
+</head>
+<body>
+
+<h2>Bảng Phân Công Công Việc</h2>
+
+<table>
+    <thead>
+        <tr>
+            <th>Công Việc</th>
+            <th>Người Phụ Trách</th>
+            <th>Thời Gian Hoàn Thành</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Tạo trang chủ</td>
+            <td>Lý Đức Cương</td>
+            <td>29/03/2024</td>
+        </tr>
+        <tr>
+            <td>Tạo trang chủ</td>
+            <td>Nguyễn Manh Hưng</td>
+            <td>29/03/2024</td>
+        </tr>
+        <tr>
+            <td>Tạo bảng phân công</td>
+            <td>Phan Công Duy Anh</td>
+            <td>29/03/2024</td>
+        </tr>
+        <tr>
+            <td>Tạo bảng tiến độ project</td>
+            <td>Nguyễn Thanh Thủy</td>
+            <td>29/03/2024</td>
+        </tr>
+        <tr>
+            <td>Bổ sung và nâng cấp wire flame</td>
+            <td>Bùi Phương Ly</td>
+            <td>29/03/2024</td>
+        </tr>
+        <tr>
+            <td>Bổ sung và nâng cấp wire flame</td>
+            <td>Dương Nguyệt Hà</td>
+            <td>29/03/2024</td>
+        </tr>
+    </tbody>
+</table>
+
+</body>
+</html>
